@@ -1,0 +1,16 @@
+C:\Users\t1m4c\Desktop\Inzynierka\InzynierkaBlockchain\InzynierkaBlockchain\obj\Release\netcoreapp3.1\InzynierkaBlockchain.AssemblyInfoInputs.cache
+C:\Users\t1m4c\Desktop\Inzynierka\InzynierkaBlockchain\InzynierkaBlockchain\obj\Release\netcoreapp3.1\InzynierkaBlockchain.AssemblyInfo.cs
+C:\Users\t1m4c\Desktop\Inzynierka\InzynierkaBlockchain\InzynierkaBlockchain\obj\Release\netcoreapp3.1\InzynierkaBlockchain.csproj.CoreCompileInputs.cache
+C:\Users\t1m4c\Desktop\Inzynierka\InzynierkaBlockchain\InzynierkaBlockchain\bin\Release\netcoreapp3.1\InzynierkaBlockchain.exe
+C:\Users\t1m4c\Desktop\Inzynierka\InzynierkaBlockchain\InzynierkaBlockchain\bin\Release\netcoreapp3.1\InzynierkaBlockchain.deps.json
+C:\Users\t1m4c\Desktop\Inzynierka\InzynierkaBlockchain\InzynierkaBlockchain\bin\Release\netcoreapp3.1\InzynierkaBlockchain.runtimeconfig.json
+C:\Users\t1m4c\Desktop\Inzynierka\InzynierkaBlockchain\InzynierkaBlockchain\bin\Release\netcoreapp3.1\InzynierkaBlockchain.runtimeconfig.dev.json
+C:\Users\t1m4c\Desktop\Inzynierka\InzynierkaBlockchain\InzynierkaBlockchain\bin\Release\netcoreapp3.1\InzynierkaBlockchain.dll
+C:\Users\t1m4c\Desktop\Inzynierka\InzynierkaBlockchain\InzynierkaBlockchain\bin\Release\netcoreapp3.1\InzynierkaBlockchain.pdb
+C:\Users\t1m4c\Desktop\Inzynierka\InzynierkaBlockchain\InzynierkaBlockchain\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\t1m4c\Desktop\Inzynierka\InzynierkaBlockchain\InzynierkaBlockchain\obj\Release\netcoreapp3.1\InzynierkaBlockchain.csproj.CopyComplete
+C:\Users\t1m4c\Desktop\Inzynierka\InzynierkaBlockchain\InzynierkaBlockchain\obj\Release\netcoreapp3.1\InzynierkaBlockchain.dll
+C:\Users\t1m4c\Desktop\Inzynierka\InzynierkaBlockchain\InzynierkaBlockchain\obj\Release\netcoreapp3.1\InzynierkaBlockchain.pdb
+C:\Users\t1m4c\Desktop\Inzynierka\InzynierkaBlockchain\InzynierkaBlockchain\obj\Release\netcoreapp3.1\InzynierkaBlockchain.genruntimeconfig.cache
+C:\Users\t1m4c\Desktop\Inzynierka\InzynierkaBlockchain\InzynierkaBlockchain\bin\Release\netcoreapp3.1\websocket-sharp.dll
+C:\Users\t1m4c\Desktop\Inzynierka\InzynierkaBlockchain\InzynierkaBlockchain\obj\Release\netcoreapp3.1\InzynierkaBlockchain.csprojAssemblyReference.cache
